@@ -34,3 +34,6 @@ $options = [
 ```php
 $html = MailTemplateDuck::create($components, $options);
 ```
+
+## Example
+<img src="docs/img/example.png" alt="Example">
