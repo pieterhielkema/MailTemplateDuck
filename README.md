@@ -1,9 +1,9 @@
-> ⚠️ **This package is still in development.**
-> 
 <img src="docs/img/Duck.png" alt="MailTemplateDuck">
 
 # MailTemplateDuck
 (Laravel) Components for email, for lazy people ✉️💚
+
+> ⚠️ **This package is still in development.**
 
 ### Create array of components
 ```php
