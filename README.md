@@ -7,6 +7,7 @@
 
 ## Usage
 ### Create array of components
+
 ```php
 $components = [
     new HeaderImageComponent("https://source.unsplash.com/user/traceofwind/likes/800x400"),
@@ -14,12 +15,14 @@ $components = [
     new TitleComponent("Account successfully created"),
     new SpacerComponent(20),
     new ParagraphComponent(TestData::$loremIpsum),
-    new SpacerComponent(20),
+    new SpacerComponent(30),
     new CtaButtonComponent("Click here to login", "https://www.google.com", "center"),
-    new SpacerComponent(20),
-    new ParagraphComponent(TestData::$loremIpsum),
+    new SpacerComponent(30),
+    new ParagraphComponent(TestData::$smallLoremIpsum),
     new SpacerComponent(20),
     new ParagraphComponent(TestData::$signature),
+    new SpacerComponent(20),
+    new DisclaimerComponent(TestData::$smallLoremIpsum),
 ];
 ```
 
