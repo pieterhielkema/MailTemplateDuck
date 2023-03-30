@@ -1,3 +1,5 @@
+> ⚠️ **This package is still in development.**
+> 
 <img src="docs/img/Duck.png" alt="MailTemplateDuck">
 
 # MailTemplateDuck
@@ -19,6 +21,7 @@ $components = [
     new ParagraphComponent(TestData::$signature),
 ];
 ```
+
 ### Set options
 ```
 $options = [
