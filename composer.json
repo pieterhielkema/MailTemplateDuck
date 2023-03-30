@@ -1,0 +1,17 @@
+{
+    "name": "pieterhielkema/mail-template-duck",
+    "description": "Laravel Components for email, for lazy people ✉",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Pieterhielkema\\MailTemplateDuck\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pieter Hielkema",
+            "email": "pieterhielkema@gmail.com"
+        }
+    ],
+    "require": {}
+}
