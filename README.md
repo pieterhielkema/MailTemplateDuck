@@ -5,6 +5,7 @@
 
 > ⚠️ **This package is still in development.**
 
+## Usage
 ### Create array of components
 ```php
 $components = [
